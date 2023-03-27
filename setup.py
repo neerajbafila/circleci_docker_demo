@@ -21,6 +21,6 @@ setup(
     author_email="neerajbafila@gmail.com",
     packages=[SRC_REPO],
     license="MIT",
-    python_requires=">=3.8",
+    python_requires=">=3.6",
     install_requires=LIST_OF_REQUIREMENTS
 )
